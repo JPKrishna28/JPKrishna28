@@ -53,7 +53,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/Emperor-Grey">
+  <a href="https://github.com/Krizzna69">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krizzna69&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
