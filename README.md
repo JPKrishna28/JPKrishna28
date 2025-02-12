@@ -52,6 +52,10 @@
 </p>  
 
 ---
-
+<p align="center">
+  <a href="https://github.com/Emperor-Grey">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krizzna69&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>
 ## ⚡ Fun Fact  
 I turn **coffee into code** & ideas into reality ☕💻  
