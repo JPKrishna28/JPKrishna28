@@ -1,10 +1,10 @@
 <h1 align="center">🚀 P Jaswanth Krishna | AI & ML Innovator</h1>  
 <p align="center">AI Enthusiast | Researcher | Open Source Contributor | Tech Speaker</p>  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krizzna69&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>  
-
+<h3 align="center">👀 Total Profile Visits 👀</h3>
+<p align="center">
+	<img src="https://count.getloli.com/get/@Krizzna69?theme=gelbooru-h"> <br/>
+</p>
 ---
 
 ## 💡 About Me  
