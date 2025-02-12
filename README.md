@@ -1,20 +1,25 @@
-# 🚀 P Jaswanth Krishna | AI & ML Innovator  
+<h1 align="center">🚀 P Jaswanth Krishna | AI & ML Innovator</h1>  
+<p align="center">AI Enthusiast | Researcher | Open Source Contributor | Tech Speaker</p>  
 
-### 👋 Welcome to my GitHub, where ideas turn into code!  
-
-💡 **Who Am I?**  
-- 🎓 AI & ML Enthusiast | 3rd Year @ NRI Institute of Technology  
-- 🏆 **TechTrek Hackathon Winner** | Infosys Best Project Awardee  
-- 🎤 **Vice President @ Innovista** | Conducted 10+ Impactful Tech Workshops  
-- 📚 Published: **"Real-Time Water Level Monitoring & Alert System"**  
-- 💻 Passionate about AI, Open-Source, and Developer Advocacy  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krizzna69&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>  
 
 ---
 
-### 🔥 **What I Build**  
-🚀 AI & ML Models | 🎥 Video Processing | 🌍 Web & Mobile Apps  
+## 💡 About Me  
+- 🎓 **3rd Year AI & ML Student** @ NRI Institute of Technology  
+- 🏆 **TechTrek Hackathon Winner** | Infosys Best Project Awardee  
+- 🎤 **Vice President @ Innovista** | Conducted **10+ impactful workshops**  
+- 📚 **Published Research**: *Real-Time Water Level Monitoring & Alert System*  
+- 💻 Passionate about **AI, Open-Source, and Developer Advocacy**  
 
-| **Featured Projects** | **Tech Stack** |  
+---
+
+## 🔥 Projects & Contributions  
+🚀 **Building AI & ML models, Web & Mobile Apps, and Video Processing Tools**  
+
+| 🏆 **Featured Projects** | 🚀 **Tech Stack** |  
 |----------------|------------|  
 | 🤖 AI-Based Virtual Library | LangChain, OpenAI, Streamlit |  
 | 🌍 Geolocation-Based Attendance | MERN Stack, Google Maps API |  
@@ -23,7 +28,7 @@
 
 ---
 
-### 📊 **GitHub Stats**  
+## 📊 GitHub Stats  
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=krizzna69&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />  
@@ -33,11 +38,20 @@
 
 ---
 
-### 🌐 **Connect & Collaborate**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthperla/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaswanthuchiha69.wixsite.com/my-site)  
+## 🌐 Connect & Collaborate  
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaswanthperla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/krizzna69">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://jaswanthuchiha69.wixsite.com/my-site">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>  
 
 ---
 
-### ⚡ **Fun Fact**  
-I turn coffee into code & ideas into reality ☕💻  
+## ⚡ Fun Fact  
+I turn **coffee into code** & ideas into reality ☕💻  
