@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🚀 P Jaswanth Krishna | AI & ML Innovator  
 
-<!--
-**Krizzna69/Krizzna69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Welcome to my GitHub, where ideas turn into code!  
 
-Here are some ideas to get you started:
+💡 **Who Am I?**  
+- 🎓 AI & ML Enthusiast | 3rd Year @ NRI Institute of Technology  
+- 🏆 **TechTrek Hackathon Winner** | Infosys Best Project Awardee  
+- 🎤 **Vice President @ Innovista** | Conducted 10+ Impactful Tech Workshops  
+- 📚 Published: **"Real-Time Water Level Monitoring & Alert System"**  
+- 💻 Passionate about AI, Open-Source, and Developer Advocacy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 **What I Build**  
+🚀 AI & ML Models | 🎥 Video Processing | 🌍 Web & Mobile Apps  
+
+| **Featured Projects** | **Tech Stack** |  
+|----------------|------------|  
+| 🤖 AI-Based Virtual Library | LangChain, OpenAI, Streamlit |  
+| 🌍 Geolocation-Based Attendance | MERN Stack, Google Maps API |  
+| 📜 English-to-Telugu Translator (94% Accuracy) | Gemini 2, NLP |  
+| 🔍 Insta Spam Detection | Python, ML, Flask |  
+
+---
+
+### 📊 **GitHub Stats**  
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="49%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="49%" />  
+</div>  
+
+---
+
+### 🌐 **Connect & Collaborate**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthperla/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaswanthuchiha69.wixsite.com/my-site)  
+
+---
+
+### ⚡ **Fun Fact**  
+I turn coffee into code & ideas into reality ☕💻  
