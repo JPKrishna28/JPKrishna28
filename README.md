@@ -26,7 +26,7 @@
 ### 📊 **GitHub Stats**  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=krizzna69&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="49%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="49%" />  
 </div>  
