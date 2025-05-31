@@ -3,7 +3,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@Krizzna69?theme=gelbooru-h"> <br/>
+	<img src="https://count.getloli.com/get/@JPKrishna28?theme=gelbooru-h"> <br/>
 </p>
 ---
 
@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=krizzna69&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JPKrishna28&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" /> 
 </div>  
 
 ---
@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/jaswanthperla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/krizzna69">
+  <a href="https://github.com/JPKrishna28">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://jaswanthuchiha69.wixsite.com/my-site">
@@ -51,8 +51,8 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/Krizzna69">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krizzna69&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/JPKrishna28">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPKrishna28&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
 ## ⚡ Fun Fact  
