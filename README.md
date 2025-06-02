@@ -3,7 +3,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@JPKrishna28?theme=gelbooru-h"> <br/>
+	<img src="https://count.getloli.com/get/@JPKrishna28?theme=ai-1"> <br/>
 </p>
 ---
 
