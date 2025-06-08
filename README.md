@@ -44,7 +44,7 @@
   <a href="https://github.com/JPKrishna28">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://jpkrishna.netlify.app/">
+  <a href="https://perlajaswanthkrishna.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>  
